@@ -27,4 +27,4 @@ Anónimo_
 | Nombre de la raza | Color de Ojos |
 |------------------- | ---------------- 
 | Flakito |![bebe](imagenes/bebe.png)
-| Choco |![Choquito](imagenes/choco.png)
+| Choco |![choquito](imagenes/choco1.png)
