@@ -1,4 +1,4 @@
-### CONOZCA ALGUNOS HERMOSOS PERRITOS 
+## CONOZCA ALGUNOS HERMOSOS PERRITOS 
 
 | Nombre de la raza | Color de Ojos |Tipo de pelaje |Foto
 |------------------- | ---------------- |------------ |-----------------
@@ -8,7 +8,7 @@
 | *Beagle* | _marrón oscuro o avellana, bastante grandes_ |**liso, corto, denso**| ![Beagle](imagenes/Beagle.png "Beagle")
 | *Collie* | _marrones, de forma almendrada y ligeramente oblicuos_ |  **largo, generalmente blanco y gris**| ![cornelio](imagenes/cornelio.png "cornelio")
 
-#### Aqui te muestro algunas frases 
+### Aqui muestro algunas frases 
 
 * _“Todo el conocimiento, la totalidad de preguntas y respuestas se encuentran en el perro”._
 **Franz Kafka.**
