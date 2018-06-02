@@ -26,4 +26,5 @@ Anónimo_
 ### Ahora presento a los consentidos de la casa :) 
 | Nombre de la raza | Color de Ojos |
 |------------------- | ---------------- 
-
+| Flakito |![bebe](imagenes/bebe.png)
+| Choco |![Choquito](imagenes/choco.png)
